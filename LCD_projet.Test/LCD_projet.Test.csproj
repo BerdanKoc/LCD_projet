@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LCD_projet\LCD_projet.csproj" />
+  </ItemGroup>
+
 </Project>
