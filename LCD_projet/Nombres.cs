@@ -7,6 +7,9 @@
             "  |" + Environment.NewLine +
             "  |";
 
-        public static readonly string Deux = "";
+        public static readonly string Deux =
+            " _ " + Environment.NewLine +
+            " _|" + Environment.NewLine +
+            "|_ ";
     }
 }
