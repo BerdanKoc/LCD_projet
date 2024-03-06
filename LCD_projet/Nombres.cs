@@ -11,5 +11,7 @@
             " _ " + Environment.NewLine +
             " _|" + Environment.NewLine +
             "|_ ";
+
+        public static readonly string Trois = "";
     }
 }

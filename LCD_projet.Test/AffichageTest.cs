@@ -27,5 +27,18 @@ namespace LCD_projet.Test
 
             Assert.Equal(attendu, chiffre2);
         }
+
+        [Fact]
+        public void Chiffre3()
+        {
+            var attendu =
+                " _ " + Environment.NewLine +
+                " _|" + Environment.NewLine +
+                " _|";
+
+            string chiffre3 = Nombres.Trois;
+
+            Assert.Equal(attendu, chiffre3);
+        }
     }
 }
