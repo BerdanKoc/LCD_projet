@@ -12,6 +12,9 @@
             " _|" + Environment.NewLine +
             "|_ ";
 
-        public static readonly string Trois = "";
+        public static readonly string Trois =
+            " _ " + Environment.NewLine +
+            " _|" + Environment.NewLine +
+            " _|";
     }
 }
